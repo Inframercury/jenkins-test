@@ -36,7 +36,7 @@ Open a command window and run:
 This runs Cucumber features using Cucumber's JUnit runner. The `@RunWith(Cucumber.class)` annotation on the `RunCukesTest`
 class tells JUnit to kick off Cucumber.
 
-## Use Ant
+##  Use Ant
 
 Open a command window and run:
 
