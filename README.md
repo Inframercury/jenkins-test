@@ -1,3 +1,9 @@
+# Important links:
+https://www.guru99.com/selenium-tutorial.html
+https://www.testingexcellence.com/selenium-webdriver-tutorials/
+https://github.com/aegor/jenkins-test
+
+
 # java-cucumber-example
 
 A sample project for Cucumber and/or Selenium tests.
